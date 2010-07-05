@@ -44,5 +44,5 @@ production:
   database: sample_app_production
   pool: 5
   username: root
-  password: 2_cqur_4_home3 
+  password: 2_cqur_4_home3
   socket: /var/run/mysqld/mysqld.sock
